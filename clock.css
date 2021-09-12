@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+#clock {
+    color:black;
+    font-size: 195px;
+    background-color: yellowgreen;
+    padding: 0.5em 0em;
+    width: 80%;
+    margin: 0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#banner{
+    color:yellow;
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(165, 42, 118);
+    padding: 0.5em 0em;
+    width: 80%;
+    margin: 10% auto 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-transform: uppercase;
+}
+span{
+    margin-left: 175px;
+}
